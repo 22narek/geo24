@@ -1,0 +1,11 @@
+# *.C++ linguist-detectable=false
+# *.XML linguist-detectable=false
+# *.JSON linguist-detectable=true
+# *.XML Property List linguist-detectable=false
+# *.Dart linguist-detectable=true
+# *.Swift linguist-detectable=false
+# *.C linguist-detectable=false
+# *.Gradle linguist-detectable=false
+# *.CMake linguist-detectable=false
+# *.rb linguist-language=Dart
+*.* linguist-language=Dart
